@@ -1,3 +1,3 @@
 # hello-world
-I love :coffee:,:pizza:.
+pratice commit.
 My first repository on GitHub.
